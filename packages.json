@@ -6,5 +6,9 @@
     {
         "package": "voi",
         "url": "https://github.com/chjackson/voi"
+    },
+    {
+        "package": "disbayes",
+        "url": "https://github.com/chjackson/disbayes"
     }
 ]
