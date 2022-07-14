@@ -10,5 +10,9 @@
     {
         "package": "disbayes",
         "url": "https://github.com/chjackson/disbayes"
+    },
+    {
+        "package": "a2bcovid",
+        "url": "https://github.com/chjackson/survextrap"
     }
 ]
