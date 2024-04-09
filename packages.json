@@ -4,6 +4,10 @@
         "url": "https://github.com/chjackson/msmbayes"
     },
     {
+        "package": "cmdstanr",
+        "url": "https://github.com/stan-dev/cmdstanr"
+    },
+    {
         "package": "survextrap",
         "url": "https://github.com/chjackson/survextrap"
     },
