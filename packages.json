@@ -1,5 +1,9 @@
 [
     {
+        "package": "msmbayes",
+        "url": "https://github.com/chjackson/msmbayes"
+    },
+    {
         "package": "survextrap",
         "url": "https://github.com/chjackson/survextrap"
     },
